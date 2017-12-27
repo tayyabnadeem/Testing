@@ -12,6 +12,8 @@
 </head>
 <body class="{squarespace.page-classes}" id="{squarespace.page-id}">
 
+  <p>Hello, World!</p>
+
   <div id="canvasWrapper">
     <div id="canvas">
 
